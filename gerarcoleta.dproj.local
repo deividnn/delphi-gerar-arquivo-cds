@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/13 14:33:03.000.903,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/04/13 17:13:16.000.742,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:28:53.000.027,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:57:52.000.056,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/18 10:31:29.000.952,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/18 10:32:08.000.726,C:\Users\criare\Documents\Embarcadero\Studio\Projects\gerarcoleta\principal.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2016/05/18 10:32:08.000.726,C:\Users\criare\Documents\Embarcadero\Studio\Projects\gerarcoleta\principal.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/18 10:32:20.000.490,C:\Users\criare\Documents\Embarcadero\Studio\Projects\gerarcoleta\gerarcoleta.dproj=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
